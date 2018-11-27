@@ -1,5 +1,5 @@
 {
-    "name": "diegohq/shoppingcart",
+    "name": "betalabs/shoppingcart",
     "description": "Laravel Shoppingcart. Added support to Laravel 5.7 while original doesn't.",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
